@@ -10,9 +10,15 @@ pandas, numpy, nltk
 
 ### Included files
 * recommendation_with_IBM.ipynb: notebook with implemented recommendation techniques
-#### Table of Contents
+
+#### Contents of the juypter notebook 
+
 I. Exploratory Data Analysis
+
 II. Rank Based Recommendations
+
 III. User-User Based Collaborative Filtering
+
 V. Matrix Factorization
+
 VI. Extras & Concluding
